@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhobby3530&count_bg=%2328E325&title_bg=%233C0094&icon=aiqfome.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhobby3530&count_bg=%2330D52E&title_bg=%233C0094&icon=aiqfome.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **hobby3530/hobby3530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
